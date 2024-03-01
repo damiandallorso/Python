@@ -3,3 +3,5 @@ Surname = Dall'Orso
 Age = 28
 City = Montevideo
 Country = Uruguay
+
+print (Name + Surname + Country)
