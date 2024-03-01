@@ -1,2 +1,2 @@
 # Python
-Python practice repository
+Python practice
